@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312085048_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalAPI\\Migrations\\20260312085048_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\addnewpatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\addnewpatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\addmedicinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\addmedicinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\medicinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\medicinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\medicindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\medicindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\models\\medicin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\medicin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312082602_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalAPI\\Migrations\\20260312082602_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\docdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\docdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312074125_pass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalAPI\\Migrations\\20260312074125_pass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\doctorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\doctorlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\addnewappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\addnewappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312072826_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalAPI\\Migrations\\20260312072826_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\dtos\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\dtos\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\migrations\\20260312064353_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\migrations\\20260312064353_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|d:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\hospitalapi\\hospitalapi\\migrations\\20260312055318_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650B939-E808-4C93-A99E-37FA380A0262}|HospitalAPI\\HospitalAPI.csproj|solutionrelative:hospitalapi\\migrations\\20260312055318_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260312085048_s.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312085048_s.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312085048_s.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312085048_s.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312085048_s.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:50:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicinDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\MedicinDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\MedicinDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\MedicinDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\MedicinDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:32:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260312082602_d.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312082602_d.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312082602_d.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312082602_d.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312082602_d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:26:02.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicinsController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\MedicinsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\MedicinsController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\MedicinsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\MedicinsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:44:09.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260312074125_pass2.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312074125_pass2.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312074125_pass2.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312074125_pass2.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312074125_pass2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:41:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoctorLoginDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\DoctorLoginDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\DoctorLoginDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\DoctorLoginDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\DoctorLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:37:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:36:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\DocDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\DocDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\DocDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\DocDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:35:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\PatientDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\PatientDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\PatientDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\PatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:29:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260312072826_patient.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312072826_patient.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312072826_patient.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312072826_patient.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312072826_patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:28:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewPatientController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddNewPatientController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AddNewPatientController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddNewPatientController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AddNewPatientController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA7wFsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:27:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddNewAppointmentController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddNewAppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AddNewAppointmentController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddNewAppointmentController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AddNewAppointmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:13:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\AppointmentDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AppointmentDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:11:57.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:10:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\AdminDashboardDto.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AdminDashboardDto.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:54:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwFQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:49:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260312064353_pass.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312064353_pass.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312064353_pass.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312064353_pass.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312064353_pass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:43:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\DTOs\\AdminLogin.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\DTOs\\AdminLogin.cs",
+              "RelativeToolTip": "HospitalAPI\\DTOs\\AdminLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:27:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminLoginController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AdminLoginController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AdminLoginController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AdminLoginController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AdminLoginController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:24:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HospitalAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HospitalAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T06:16:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMedicinsController.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddMedicinsController.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Controllers\\AddMedicinsController.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Controllers\\AddMedicinsController.cs",
+              "RelativeToolTip": "HospitalAPI\\Controllers\\AddMedicinsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowFgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:03:02.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260312055318_tables.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312055318_tables.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Migrations\\20260312055318_tables.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Migrations\\20260312055318_tables.cs",
+              "RelativeToolTip": "HospitalAPI\\Migrations\\20260312055318_tables.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:53:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalAPI\\appsettings.json",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\appsettings.json",
+              "RelativeToolTip": "HospitalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T05:45:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\models\\Doctor.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Doctor.cs",
+              "RelativeToolTip": "HospitalAPI\\models\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:43:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\models\\Patient.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Patient.cs",
+              "RelativeToolTip": "HospitalAPI\\models\\Patient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:40:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\models\\Appointment.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Appointment.cs",
+              "RelativeToolTip": "HospitalAPI\\models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:35:33.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Admin.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\models\\Admin.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Admin.cs",
+              "RelativeToolTip": "HospitalAPI\\models\\Admin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:33:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Program.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Program.cs",
+              "RelativeToolTip": "HospitalAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:47:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:31:38.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medicin.cs",
+              "DocumentMoniker": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Medicin.cs",
+              "RelativeDocumentMoniker": "HospitalAPI\\models\\Medicin.cs",
+              "ToolTip": "D:\\backend \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647\\c#\\HospitalAPI\\HospitalAPI\\models\\Medicin.cs",
+              "RelativeToolTip": "HospitalAPI\\models\\Medicin.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:27:04.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
